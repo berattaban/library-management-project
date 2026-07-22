@@ -1,4 +1,4 @@
-# 📚 Library Management System API
+# 📚 Library Management System
 
 This project is a modern **Library Management System** backend application developed using **Java 17** and **Spring Boot 4**, designed with clean architecture principles to manage books, authors, categories, and borrowing processes efficiently.
 
